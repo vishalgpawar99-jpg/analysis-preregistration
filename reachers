@@ -1,0 +1,29 @@
+ep 2: Structure for Your 8–12 Page Whitepaper (PDF)
+When authoring your whitepaper in Microsoft Word, LaTeX, or Google Docs prior to exporting to PDF, structure the content across the following required sections:
+
+Title Page & Abstract: Concise summary (~250 words) detailing background, methodology, experimental results, and key findings.
+
+Introduction & Literature Background: Contextualizing customer churn modeling, mathematical foundations of ensemble learning algorithms, and research gaps.
+
+Data Methodology & Exploratory Data Analysis: Data collection, distribution sanity checks, feature transformations, scaling procedures, and correlation matrices.
+
+Predictive Modeling & Hyperparameter Selection: Algorithm choices, stratified k-fold cross-validation strategies, and loss function optimizations.
+
+Model Evaluation & Discussion: Comparative metric analysis (Accuracy, Precision, Recall, F1-Score, ROC-AUC), feature importance rankings, and error analysis.
+
+Business Implications & Recommendations: Translation of model outputs into actionable business strategies, target deployment workflows, and risk mitigations.
+
+References & Code Appendix: Citations of relevant literature and complete GitHub repository link.
+
+Implementation & Deliverable Submission Notes
+Repository Setup: Organize your GitHub repository with standard structure:
+
+/data/ — Raw and processed datasets
+
+/notebooks/ — Clean, executed .ipynb capstone notebook
+
+/reports/ — Exported Data Science Research Report PDF
+
+README.md — Project summary, reproduction steps, and key findings
+
+Submission: Paste your public GitHub Repository URL or public Google Drive PDF link into the Submit deliverable field on your dashboard.
